@@ -15,15 +15,17 @@ Learn more about cadCAD GPT in this series of articles:
 #### Table of Contents
 
 1. [Installation](#installation)
-2. [Usage](#usage)
+2. [Quickstart](#quickstart)
 3. [Contributing](#contributing)
 4. [Community and Support](#community-and-support)
 5. [Future Additions](#future-additions)
 6. [License](#license)
+7. [Acknowledgements](#acknowledgements)
+8. [Citations](#citations)
 
 ---
 
-### Installation
+## Installation
 
 Include instructions on how to download, install dependencies, and set up the project. This could include:
 
@@ -38,13 +40,13 @@ Include instructions on how to download, install dependencies, and set up the pr
   or just run the setup.ipynb file which will install the requirements for you.
 
 
-### Quickstart
+## Quickstart
 
 - Check the project_template folder in the examples folder. This folder has all the components to get started building your own chatbot.
 - Copy your radcad code into the example_radcad.py file.
 - Go to the example_project.ipynb file, paste your openAI key in the openai_key variable and run all the code.
 
-### Contributing
+## Contributing
 
 Guidelines for contributors:
 
@@ -52,21 +54,25 @@ Guidelines for contributors:
 - Code styling conventions (write about pep257 format here).
 - Contribution process (TBD).
 
-### Community and Support
+## Community and Support
 
-- For any ideas, discussions or queries join the discord channel (add link)
+For any ideas, discussions or queries join the [TE Academy Discord](https://discord.gg/te-academy)!
 
-### Future Additions
+You'll find us  here
+<img width="226" alt="Screenshot 2023-11-29 at 17 40 45" src="https://github.com/TE-Academy/cadCAD-GPT/assets/42371947/fe313fca-870d-4fd7-9902-fd2a38f0a9ba">
+
+
+## Future Additions
 
 - Outline upcoming features or enhancements planned for the project.
 - Encourage users to suggest improvements or features.
 
-### License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/TE-Academy/cadCAD-GPT/blob/main/LICENSE) file for details.
 
 
-#### Additional Sections (if necessary)
+## Additional Sections (if necessary)
 
 Depending on the complexity or specific requirements of your project, you might want to include additional sections such as:
 
@@ -78,11 +84,11 @@ Depending on the complexity or specific requirements of your project, you might 
 Remember, the README should be clear, concise, and informative to help users and contributors understand and engage with your project easily. Adjust and expand the sections as needed for your specific project.
 
 
-### Acknowledgements
+## Acknowledgements
 cadCAD GPT was kickstarted by funding received from Token Engineering Commons. We thank the TE Commons community, and Gideon Rosenblatt in particular, who encouraged us to embark on this exciting journey. Big thank you to our advisors Roderick McKinley, Richard Blythman, and Robert Koschig for ongoing support and feedback. Shoutout to Dr. Achim Struve, Dimitrios Chatzianagnostou, Stephanie Tramicheck, Ivan Bermejo, Rohan Sundar, and Lukasz Szymanski for the most valuable alpha user feedback and insights, and Kaidlyne Neukam for her tireless support in publishing this work.
 
 
-### Citations
+## Citations
 If you find cadCAD GPT useful, please consider citing the project:
 
 @software {cadCAD GPT,
