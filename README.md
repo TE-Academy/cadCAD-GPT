@@ -75,6 +75,19 @@ Depending on the complexity or specific requirements of your project, you might 
 Remember, the README should be clear, concise, and informative to help users and contributors understand and engage with your project easily. Adjust and expand the sections as needed for your specific project.
 
 
+📔 Citation & Acknowledgements
+If you find ActionWeaver useful, please consider citing the project:
+
+@software{Teng_Hu_ActionWeaver_2023,
+    author = {Teng Hu},
+    license = {Apache-2.0},
+    month = Aug,
+    title = {ActionWeaver: Application Framework for LLMs},
+    url = {https://github.com/TengHu/ActionWeaver},
+    year = {2023}
+}
+
+
 a language model interface for cadcad/radcad simulations using autonomous LLM agents 
 - how to use
 - how to download
