@@ -90,7 +90,7 @@ cadCAD GPT was kickstarted by funding received from Token Engineering Commons. W
 #### Citations
 If you find cadCAD GPT useful, please consider citing the project:
 
-@software{Teng_Hu_ActionWeaver_2023,
+@software{cadCAD GPT,
     author = {Rohan Mehta, Angela Kreitenweis},
     license = {MIT},
     month = Nov,
