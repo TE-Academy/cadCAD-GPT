@@ -11,6 +11,9 @@ Learn more about cadCAD GPT in this series of articles:
 - Part II: [This is me, cadCAD GPT!](https://mirror.xyz/0xFD1b6961B8CDAcaE0bb35b0f1e78b46b900735af/V1ybyg0t8eNz8ADq5GiBQrhP3i_rRKOCtp_mkjH8j68) A deep-dive into cadCAD GPT’s powerful, customizable components
 - Part III: [Let’s chat!](https://mirror.xyz/0xFD1b6961B8CDAcaE0bb35b0f1e78b46b900735af/5Av2t43i3AhSELIb2yuMqLsKDIyUV5LrVA9EJ5ljaBo) Experiments and further development of cadCAD GPT
 
+![cadCADGPT_diagram-detailed](https://github.com/TE-Academy/cadCAD-GPT/assets/42371947/ad70d134-8d5c-4f87-a791-2606779e7fb8)
+
+
 
 #### Table of Contents
 
