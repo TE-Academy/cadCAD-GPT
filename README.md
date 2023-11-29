@@ -25,6 +25,7 @@ Learn more about cadCAD GPT in this series of articles:
 6. [License](#license)
 7. [Acknowledgements](#acknowledgements)
 8. [Citations](#citations)
+9. [Links](#links)
 
 ---
 
@@ -41,6 +42,10 @@ Include instructions on how to download, install dependencies, and set up the pr
   pip install -r requirements.txt
   ```
   or just run the setup.ipynb file which will install the requirements for you.
+
+_  - how to use
+- how to download
+- how to how to add _
 
 
 ## Quickstart
@@ -103,10 +108,16 @@ If you find cadCAD GPT useful, please consider citing the project:
     year = 2023
 }
 
+## Links
+Learn more about TE Academy, attend our events and study token engineering!
 
-a language model interface for cadcad/radcad simulations using autonomous LLM agents 
-- how to use
-- how to download
-- how to how to add 
-- discord 
-- Future additions
+Web [https://tokenengineering.net](https://tokenengineering.net) <br>
+YouTube [https://www.youtube.com/c/tokenengineering](https://www.youtube.com/c/tokenengineering) <br>
+Discord [https://discord.gg/te-academy](https://discord.gg/te-academy) <br>
+Twitter [https://twitter.com/tokengineering](https://twitter.com/tokengineering) <br>
+
+[Subscribe to our newsletter](https://a18hk.r.a.d.sendibm1.com/mk/cl/f/sh/1t6Af4OiGsDhzjSMTPLk965Sz7rlif/7PHBuI-UA0NR) for the latest trends, and #tokenengineering news!
+
+
+![TE Academy Coloured logo 4](https://github.com/TE-Academy/cadCAD-GPT/assets/42371947/5b207452-78e0-447a-9e30-14e04a22c94b)
+
