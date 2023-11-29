@@ -85,7 +85,7 @@ Remember, the README should be clear, concise, and informative to help users and
 
 
 ## Acknowledgements
-cadCAD GPT was kickstarted by funding received from Token Engineering Commons. We thank the TE Commons community, and Gideon Rosenblatt in particular, who encouraged us to embark on this exciting journey. Big thank you to our advisors Roderick McKinley, Richard Blythman, and Robert Koschig for ongoing support and feedback. Shoutout to Dr. Achim Struve, Dimitrios Chatzianagnostou, Stephanie Tramicheck, Ivan Bermejo, Rohan Sundar, and Lukasz Szymanski for the most valuable alpha user feedback and insights, and Kaidlyne Neukam for her tireless support in publishing this work.
+cadCAD GPT was kickstarted by funding received from [Token Engineering Commons](https://twitter.com/tecmns). We thank the TE Commons community, and [Gideon Rosenblatt](https://twitter.com/gideonro) in particular, who encouraged us to embark on this exciting journey. Big thank you to our advisors [Roderick McKinley](https://twitter.com/RealTokenDesign), [Richard Blythman](https://twitter.com/richardblythman), and [Robert Koschig](https://twitter.com/KoschigRobert) for ongoing support and feedback. Shoutout to [Dr. Achim Struve](https://twitter.com/drcryve), [Dimitrios Chatzianagnostou](https://twitter.com/ChatziDimi), [Stephanie Tramicheck](https://www.linkedin.com/in/stephanietramicheck), [Ivan Bermejo](https://es.linkedin.com/in/ivanbermejocatalan), [Rohan Sundar](https://twitter.com/skelegrow), and [Lukasz Szymanski](https://twitter.com/woocash_eth) for the most valuable alpha user feedback and insights, and [Kaidlyne Neukam](https://twitter.com/Kaidlyne_Neukam) for her tireless support in publishing this work.
 
 
 ## Citations
