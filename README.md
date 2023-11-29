@@ -1,5 +1,6 @@
 # cadCAD-GPT
 
+![cadCAD GPT - titleimg banner hello](https://github.com/TE-Academy/cadCAD-GPT/assets/42371947/86a4663b-ce48-40f5-b3ec-df8b6707fe6e)
 
 cadCAD GPT is an open-source LLM agents framework to support token systems simulations. cadCAD GPT can be used on top of any Python model following the cadCAD/radCAD model structure. Via Python functions, it can integrate today’s most powerful data analysis and machine learning libraries (Tools) and can access data in various formats (Memory). Finally, cadCAD GPT allows users to control and track the agents’ workflow for verifiable and reproducible results.
 
