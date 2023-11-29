@@ -1,11 +1,14 @@
 # cadCAD-GPT
 
+
 cadCAD GPT is an open-source LLM agents framework to support token systems simulations. cadCAD GPT can be used on top of any Python model following the cadCAD/radCAD model structure. Via Python functions, it can integrate today’s most powerful data analysis and machine learning libraries (Tools) and can access data in various formats (Memory). Finally, cadCAD GPT allows users to control and track the agents’ workflow for verifiable and reproducible results.
 
+
 Learn more about cadCAD GPT in this series of articles:
-Part I: [Hello, cadCAD GPT!](https://mirror.xyz/0xFD1b6961B8CDAcaE0bb35b0f1e78b46b900735af/sLExFlURJEGbdBS4WrY4EsbOddQQ4uaHnIzSAzMNhsA) Requirements and conceptual design of LLMs to support token system simulations
-Part II: [This is me, cadCAD GPT!](https://mirror.xyz/0xFD1b6961B8CDAcaE0bb35b0f1e78b46b900735af/V1ybyg0t8eNz8ADq5GiBQrhP3i_rRKOCtp_mkjH8j68) A deep-dive into cadCAD GPT’s powerful, customizable components
-Part III: [Let’s chat!](https://mirror.xyz/0xFD1b6961B8CDAcaE0bb35b0f1e78b46b900735af/5Av2t43i3AhSELIb2yuMqLsKDIyUV5LrVA9EJ5ljaBo) Experiments and further development of cadCAD GPT
+
+- Part I: [Hello, cadCAD GPT!](https://mirror.xyz/0xFD1b6961B8CDAcaE0bb35b0f1e78b46b900735af/sLExFlURJEGbdBS4WrY4EsbOddQQ4uaHnIzSAzMNhsA) Requirements and conceptual design of LLMs to support token system simulations
+- Part II: [This is me, cadCAD GPT!](https://mirror.xyz/0xFD1b6961B8CDAcaE0bb35b0f1e78b46b900735af/V1ybyg0t8eNz8ADq5GiBQrhP3i_rRKOCtp_mkjH8j68) A deep-dive into cadCAD GPT’s powerful, customizable components
+- Part III: [Let’s chat!](https://mirror.xyz/0xFD1b6961B8CDAcaE0bb35b0f1e78b46b900735af/5Av2t43i3AhSELIb2yuMqLsKDIyUV5LrVA9EJ5ljaBo) Experiments and further development of cadCAD GPT
 
 
 #### Table of Contents
@@ -81,15 +84,18 @@ Depending on the complexity or specific requirements of your project, you might 
 Remember, the README should be clear, concise, and informative to help users and contributors understand and engage with your project easily. Adjust and expand the sections as needed for your specific project.
 
 
-📔 Citation & Acknowledgements
-If you find ActionWeaver useful, please consider citing the project:
+#### Acknowledgements
+cadCAD GPT was kickstarted by funding received from Token Engineering Commons. We thank the TE Commons community, and Gideon Rosenblatt in particular, who encouraged us to embark on this exciting journey. Big thank you to our advisors Roderick McKinley, Richard Blythman, and Robert Koschig for ongoing support and feedback. Shoutout to Dr. Achim Struve, Dimitrios Chatzianagnostou, Stephanie Tramicheck, Ivan Bermejo, Rohan Sundar, and Lukasz Szymanski for the most valuable alpha user feedback and insights, and Kaidlyne Neukam for her tireless support in publishing this work.
+
+#### Citations
+If you find cadCAD GPT useful, please consider citing the project:
 
 @software{Teng_Hu_ActionWeaver_2023,
-    author = {Teng Hu},
-    license = {Apache-2.0},
-    month = Aug,
-    title = {ActionWeaver: Application Framework for LLMs},
-    url = {https://github.com/TengHu/ActionWeaver},
+    author = {Rohan Mehta, Angela Kreitenweis},
+    license = {MIT},
+    month = Nov,
+    title = {cadCAD GPT - an LLM agents framework to support token systems simulations},
+    url = {https://github.com/TE-Academy/cadCAD-GPT},
     year = {2023}
 }
 
