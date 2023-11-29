@@ -29,22 +29,20 @@ Include instructions on how to download, install dependencies, and set up the pr
 
 - How to download the project files:
   ```
-  git clone <repository_url>
+  git clone https://github.com/TE-Academy/cadCAD-GPT.git
   ```
 - Installation of dependencies:
   ```
   pip install -r requirements.txt
   ```
-  or just run the setup.ipynb file which will do it for you.
+  or just run the setup.ipynb file which will install the requirements for you.
 
 
-### Usage
+### Quickstart
 
-To use this project:
-
-- Check the examples_project folder in the examples folder. This folder has all the components to get started building your own chatbot.
-- You just have to copy your radcad code into the example_radcad.py file.
-- Go to the example_project.ipynb file and run the code. Here you will have to paste your openai_key.
+- Check the project_template folder in the examples folder. This folder has all the components to get started building your own chatbot.
+- Copy your radcad code into the example_radcad.py file.
+- Go to the example_project.ipynb file, paste your openAI key in the openai_key variable and run all the code.
 
 ### Contributing
 
