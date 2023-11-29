@@ -64,13 +64,8 @@ Guidelines for contributors:
 
 ### License
 
-Include licensing information for the project. For example:
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/TE-Academy/cadCAD-GPT/blob/main/LICENSE) file for details.
 
-```
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
-```
-
-Replace `[License Name]` with the specific license you've chosen for your project.
 
 #### Additional Sections (if necessary)
 
@@ -84,19 +79,20 @@ Depending on the complexity or specific requirements of your project, you might 
 Remember, the README should be clear, concise, and informative to help users and contributors understand and engage with your project easily. Adjust and expand the sections as needed for your specific project.
 
 
-#### Acknowledgements
+### Acknowledgements
 cadCAD GPT was kickstarted by funding received from Token Engineering Commons. We thank the TE Commons community, and Gideon Rosenblatt in particular, who encouraged us to embark on this exciting journey. Big thank you to our advisors Roderick McKinley, Richard Blythman, and Robert Koschig for ongoing support and feedback. Shoutout to Dr. Achim Struve, Dimitrios Chatzianagnostou, Stephanie Tramicheck, Ivan Bermejo, Rohan Sundar, and Lukasz Szymanski for the most valuable alpha user feedback and insights, and Kaidlyne Neukam for her tireless support in publishing this work.
 
-#### Citations
+
+### Citations
 If you find cadCAD GPT useful, please consider citing the project:
 
-@software{cadCAD GPT,
-    author = {Rohan Mehta, Angela Kreitenweis},
-    license = {MIT},
+@software {cadCAD GPT,
+    author = Rohan Mehta, Angela Kreitenweis,
+    license = MIT License,
     month = Nov,
-    title = {cadCAD GPT - an LLM agents framework to support token systems simulations},
-    url = {https://github.com/TE-Academy/cadCAD-GPT},
-    year = {2023}
+    title = cadCAD GPT - an LLM agents framework to support token systems simulations,
+    url = https://github.com/TE-Academy/cadCAD-GPT,
+    year = 2023
 }
 
 
