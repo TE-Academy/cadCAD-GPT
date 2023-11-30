@@ -77,6 +77,10 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Acknowledgements
 
+To demonstrate cadCAD GPT accessing a Python system model, we're using [@danlessa's radCAD version of the Predator-Prey model](https://github.com/CADLabs/radCAD/blob/master/examples/predator_prey_sd/predator-prey-sd.ipynb).
+[radCAD is a Python framework](https://github.com/CADLabs/radCAD) for modelling and simulating dynamical systems, open-sourced by [cadLabs](https://cadlabs.org/).
+It is inspired by and compatible with [cadCAD](https://cadcad.org/), the open-source open-source Python package that assists in the processes of designing, testing and validating complex systems through simulation.
+
 
 cadCAD GPT was kickstarted by funding received from [Token Engineering Commons](https://twitter.com/tecmns). We thank the TE Commons community, and [Gideon Rosenblatt](https://twitter.com/gideonro) in particular, who encouraged us to embark on this exciting journey. Big thank you to our advisors [Roderick McKinley](https://twitter.com/RealTokenDesign), [Richard Blythman](https://twitter.com/richardblythman), and [Robert Koschig](https://twitter.com/KoschigRobert) for ongoing support and feedback. Shoutout to [Dr. Achim Struve](https://twitter.com/drcryve), [Dimitrios Chatzianagnostou](https://twitter.com/ChatziDimi), [Stephanie Tramicheck](https://www.linkedin.com/in/stephanietramicheck), [Ivan Bermejo](https://es.linkedin.com/in/ivanbermejocatalan), [Rohan Sundar](https://twitter.com/skelegrow), and [Lukasz Szymanski](https://twitter.com/woocash_eth) for the most valuable alpha user feedback and insights, and [Kaidlyne Neukam](https://twitter.com/Kaidlyne_Neukam) for her tireless support in publishing this work.
 
