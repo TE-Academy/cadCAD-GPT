@@ -88,6 +88,7 @@ cadCAD GPT was kickstarted by funding received from [Token Engineering Commons](
 ## Citations
 If you find cadCAD GPT useful, please consider citing the project:
 
+```
 @software {cadCAD GPT,
     author = Rohan Mehta, Angela Kreitenweis,
     license = MIT License,
@@ -96,6 +97,7 @@ If you find cadCAD GPT useful, please consider citing the project:
     url = https://github.com/TE-Academy/cadCAD-GPT,
     year = 2023
 }
+```
 
 ## Links
 Learn more about TE Academy, attend our events and study token engineering!
