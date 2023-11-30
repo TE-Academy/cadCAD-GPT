@@ -43,16 +43,12 @@ Include instructions on how to download, install dependencies, and set up the pr
   ```
   or just run the setup.ipynb file which will install the requirements for you.
 
-_  - how to use
-- how to download
-- how to how to add _
-
 
 ## Quickstart
 
 - In the examples folder, open the 0_template_folder. This has all the components to get started building your own chatbot.
 - Copy your radcad code into the example_radcad.py file.
-- Go to the example_project.ipynb file, paste your openAI key in the openai_key variable and run all the code. And you can start chatting with the cadcad_gpt chatbot now.
+- Go to the example_project.ipynb file, paste your openAI key in the openai_key variable and run all the code. And you can start chatting with the cadcad_gpt chatbot now in this notebook.
 
 ## Contributing
 
