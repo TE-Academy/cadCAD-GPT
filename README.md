@@ -50,9 +50,9 @@ _  - how to use
 
 ## Quickstart
 
-- Check the project_template folder in the examples folder. This folder has all the components to get started building your own chatbot.
+- In the examples folder, open the 0_template_folder. This has all the components to get started building your own chatbot.
 - Copy your radcad code into the example_radcad.py file.
-- Go to the example_project.ipynb file, paste your openAI key in the openai_key variable and run all the code.
+- Go to the example_project.ipynb file, paste your openAI key in the openai_key variable and run all the code. And you can start chatting with the cadcad_gpt chatbot now.
 
 ## Contributing
 
