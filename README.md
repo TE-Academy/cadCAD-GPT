@@ -62,33 +62,22 @@ Guidelines for contributors:
 
 For any ideas, discussions or queries join the [TE Academy Discord](https://discord.gg/te-academy)!
 
-You'll find us  here
+You'll find us in the "build" category at TE Academy's Discord:
 <img width="226" alt="Screenshot 2023-11-29 at 17 40 45" src="https://github.com/TE-Academy/cadCAD-GPT/assets/42371947/fe313fca-870d-4fd7-9902-fd2a38f0a9ba">
 
 
 ## Future Additions
 
-- Outline upcoming features or enhancements planned for the project.
-- Encourage users to suggest improvements or features.
+- Due to its highly modular design, cadCAD GPT can be customized and expanded. To learn more about tools and memory features we aim to implement next, check out ["cadCAD GPT Further Expansions" in this article](https://mirror.xyz/0xFD1b6961B8CDAcaE0bb35b0f1e78b46b900735af/V1ybyg0t8eNz8ADq5GiBQrhP3i_rRKOCtp_mkjH8j68).
+- In this early stage of LLMs applied to token engineering, many intriguing questions emerge. We've collected a number of [open research questions](https://mirror.xyz/0xFD1b6961B8CDAcaE0bb35b0f1e78b46b900735af/5Av2t43i3AhSELIb2yuMqLsKDIyUV5LrVA9EJ5ljaBo), please reach out in case you are interested to collaborate and contribute.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/TE-Academy/cadCAD-GPT/blob/main/LICENSE) file for details.
 
-
-## Additional Sections (if necessary)
-
-Depending on the complexity or specific requirements of your project, you might want to include additional sections such as:
-
-- **Troubleshooting**: Common issues and their solutions.
-- **Examples**: Links or snippets of example code demonstrating the project's capabilities.
-- **Tests**: Instructions on how to run tests included in the project.
-- **Acknowledgments**: Recognition of contributors, libraries, or resources used in the project.
-
-Remember, the README should be clear, concise, and informative to help users and contributors understand and engage with your project easily. Adjust and expand the sections as needed for your specific project.
-
-
 ## Acknowledgements
+
+
 cadCAD GPT was kickstarted by funding received from [Token Engineering Commons](https://twitter.com/tecmns). We thank the TE Commons community, and [Gideon Rosenblatt](https://twitter.com/gideonro) in particular, who encouraged us to embark on this exciting journey. Big thank you to our advisors [Roderick McKinley](https://twitter.com/RealTokenDesign), [Richard Blythman](https://twitter.com/richardblythman), and [Robert Koschig](https://twitter.com/KoschigRobert) for ongoing support and feedback. Shoutout to [Dr. Achim Struve](https://twitter.com/drcryve), [Dimitrios Chatzianagnostou](https://twitter.com/ChatziDimi), [Stephanie Tramicheck](https://www.linkedin.com/in/stephanietramicheck), [Ivan Bermejo](https://es.linkedin.com/in/ivanbermejocatalan), [Rohan Sundar](https://twitter.com/skelegrow), and [Lukasz Szymanski](https://twitter.com/woocash_eth) for the most valuable alpha user feedback and insights, and [Kaidlyne Neukam](https://twitter.com/Kaidlyne_Neukam) for her tireless support in publishing this work.
 
 
